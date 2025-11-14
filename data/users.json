@@ -1,0 +1,502 @@
+[
+  {
+    "user_id": 1,
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "email": "jordan.smith1@example.com",
+    "signup_date": "2023-01-31T08:54:58",
+    "country": "Canada",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 2,
+    "first_name": "Reese",
+    "last_name": "Johnson",
+    "email": "reese.johnson2@example.com",
+    "signup_date": "2024-09-24T01:09:25",
+    "country": "United States",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 3,
+    "first_name": "Reese",
+    "last_name": "Kim",
+    "email": "reese.kim3@example.com",
+    "signup_date": "2020-04-18T20:26:03",
+    "country": "Canada",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 4,
+    "first_name": "Emery",
+    "last_name": "Garcia",
+    "email": "emery.garcia4@example.com",
+    "signup_date": "2020-01-27T05:48:46",
+    "country": "Australia",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 5,
+    "first_name": "Taylor",
+    "last_name": "Patel",
+    "email": "taylor.patel5@example.com",
+    "signup_date": "2023-10-10T03:43:16",
+    "country": "United States",
+    "loyalty_tier": "platinum",
+    "is_active": false
+  },
+  {
+    "user_id": 6,
+    "first_name": "Jamie",
+    "last_name": "Kim",
+    "email": "jamie.kim6@example.com",
+    "signup_date": "2022-12-19T01:34:55",
+    "country": "Australia",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 7,
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "email": "riley.johnson7@example.com",
+    "signup_date": "2023-04-15T22:53:17",
+    "country": "France",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 8,
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "email": "jordan.smith8@example.com",
+    "signup_date": "2022-07-22T10:32:10",
+    "country": "United States",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 9,
+    "first_name": "Riley",
+    "last_name": "Garcia",
+    "email": "riley.garcia9@example.com",
+    "signup_date": "2025-01-31T23:08:40",
+    "country": "United Kingdom",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 10,
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "email": "morgan.garcia10@example.com",
+    "signup_date": "2020-10-19T22:10:40",
+    "country": "Australia",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 11,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee11@example.com",
+    "signup_date": "2025-03-08T13:48:55",
+    "country": "United Kingdom",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 12,
+    "first_name": "Alex",
+    "last_name": "Patel",
+    "email": "alex.patel12@example.com",
+    "signup_date": "2020-05-11T11:29:07",
+    "country": "Germany",
+    "loyalty_tier": "gold",
+    "is_active": false
+  },
+  {
+    "user_id": 13,
+    "first_name": "Emery",
+    "last_name": "Brown",
+    "email": "emery.brown13@example.com",
+    "signup_date": "2022-05-20T23:51:49",
+    "country": "Germany",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 14,
+    "first_name": "Parker",
+    "last_name": "Lee",
+    "email": "parker.lee14@example.com",
+    "signup_date": "2022-12-20T05:05:01",
+    "country": "Canada",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 15,
+    "first_name": "Riley",
+    "last_name": "Kim",
+    "email": "riley.kim15@example.com",
+    "signup_date": "2024-06-23T13:10:47",
+    "country": "Canada",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 16,
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "email": "jordan.smith16@example.com",
+    "signup_date": "2021-03-25T05:33:53",
+    "country": "Australia",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 17,
+    "first_name": "Riley",
+    "last_name": "Kim",
+    "email": "riley.kim17@example.com",
+    "signup_date": "2020-09-17T14:00:32",
+    "country": "Germany",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 18,
+    "first_name": "Reese",
+    "last_name": "Smith",
+    "email": "reese.smith18@example.com",
+    "signup_date": "2021-04-14T19:33:01",
+    "country": "United Kingdom",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 19,
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "email": "riley.lee19@example.com",
+    "signup_date": "2025-02-01T00:07:05",
+    "country": "Australia",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 20,
+    "first_name": "Taylor",
+    "last_name": "Lopez",
+    "email": "taylor.lopez20@example.com",
+    "signup_date": "2021-03-11T22:45:59",
+    "country": "United Kingdom",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 21,
+    "first_name": "Taylor",
+    "last_name": "Lopez",
+    "email": "taylor.lopez21@example.com",
+    "signup_date": "2020-01-03T21:48:24",
+    "country": "United Kingdom",
+    "loyalty_tier": "platinum",
+    "is_active": false
+  },
+  {
+    "user_id": 22,
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "email": "jamie.garcia22@example.com",
+    "signup_date": "2022-09-07T02:06:32",
+    "country": "Canada",
+    "loyalty_tier": "bronze",
+    "is_active": false
+  },
+  {
+    "user_id": 23,
+    "first_name": "Parker",
+    "last_name": "Johnson",
+    "email": "parker.johnson23@example.com",
+    "signup_date": "2021-05-30T04:40:28",
+    "country": "Australia",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 24,
+    "first_name": "Taylor",
+    "last_name": "Garcia",
+    "email": "taylor.garcia24@example.com",
+    "signup_date": "2024-09-29T07:42:40",
+    "country": "France",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 25,
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "email": "riley.brown25@example.com",
+    "signup_date": "2024-11-29T18:50:39",
+    "country": "Germany",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 26,
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "email": "jordan.brown26@example.com",
+    "signup_date": "2020-03-27T21:25:10",
+    "country": "France",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 27,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson27@example.com",
+    "signup_date": "2020-08-29T08:20:07",
+    "country": "United States",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 28,
+    "first_name": "Jordan",
+    "last_name": "Lopez",
+    "email": "jordan.lopez28@example.com",
+    "signup_date": "2022-09-01T10:08:20",
+    "country": "Australia",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 29,
+    "first_name": "Taylor",
+    "last_name": "Kim",
+    "email": "taylor.kim29@example.com",
+    "signup_date": "2025-04-20T08:50:50",
+    "country": "Germany",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 30,
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "email": "jordan.davis30@example.com",
+    "signup_date": "2023-12-22T15:25:19",
+    "country": "Germany",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 31,
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "email": "alex.johnson31@example.com",
+    "signup_date": "2020-09-05T14:39:32",
+    "country": "Australia",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 32,
+    "first_name": "Jordan",
+    "last_name": "Patel",
+    "email": "jordan.patel32@example.com",
+    "signup_date": "2022-02-23T06:55:31",
+    "country": "France",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 33,
+    "first_name": "Taylor",
+    "last_name": "Garcia",
+    "email": "taylor.garcia33@example.com",
+    "signup_date": "2025-03-09T09:05:42",
+    "country": "United States",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 34,
+    "first_name": "Reese",
+    "last_name": "Johnson",
+    "email": "reese.johnson34@example.com",
+    "signup_date": "2020-07-26T23:44:37",
+    "country": "France",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 35,
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "email": "morgan.lee35@example.com",
+    "signup_date": "2024-07-22T17:40:53",
+    "country": "Germany",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 36,
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "email": "alex.lee36@example.com",
+    "signup_date": "2024-04-01T00:04:42",
+    "country": "Germany",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 37,
+    "first_name": "Parker",
+    "last_name": "Garcia",
+    "email": "parker.garcia37@example.com",
+    "signup_date": "2024-09-28T20:14:05",
+    "country": "Australia",
+    "loyalty_tier": "platinum",
+    "is_active": true
+  },
+  {
+    "user_id": 38,
+    "first_name": "Casey",
+    "last_name": "Patel",
+    "email": "casey.patel38@example.com",
+    "signup_date": "2020-08-27T21:05:14",
+    "country": "Australia",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 39,
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "email": "alex.smith39@example.com",
+    "signup_date": "2025-05-06T18:18:29",
+    "country": "France",
+    "loyalty_tier": "silver",
+    "is_active": false
+  },
+  {
+    "user_id": 40,
+    "first_name": "Reese",
+    "last_name": "Johnson",
+    "email": "reese.johnson40@example.com",
+    "signup_date": "2022-01-31T02:29:41",
+    "country": "France",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 41,
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "email": "morgan.davis41@example.com",
+    "signup_date": "2021-05-06T20:44:28",
+    "country": "Canada",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 42,
+    "first_name": "Riley",
+    "last_name": "Kim",
+    "email": "riley.kim42@example.com",
+    "signup_date": "2025-11-11T11:31:07",
+    "country": "United Kingdom",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 43,
+    "first_name": "Jamie",
+    "last_name": "Patel",
+    "email": "jamie.patel43@example.com",
+    "signup_date": "2022-12-23T14:24:36",
+    "country": "Canada",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 44,
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "email": "jordan.smith44@example.com",
+    "signup_date": "2025-02-20T22:36:56",
+    "country": "France",
+    "loyalty_tier": "bronze",
+    "is_active": false
+  },
+  {
+    "user_id": 45,
+    "first_name": "Morgan",
+    "last_name": "Lopez",
+    "email": "morgan.lopez45@example.com",
+    "signup_date": "2022-12-22T04:49:21",
+    "country": "United Kingdom",
+    "loyalty_tier": "bronze",
+    "is_active": true
+  },
+  {
+    "user_id": 46,
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "email": "jamie.garcia46@example.com",
+    "signup_date": "2021-10-08T15:57:13",
+    "country": "France",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 47,
+    "first_name": "Reese",
+    "last_name": "Smith",
+    "email": "reese.smith47@example.com",
+    "signup_date": "2023-05-11T03:46:17",
+    "country": "Canada",
+    "loyalty_tier": "gold",
+    "is_active": true
+  },
+  {
+    "user_id": 48,
+    "first_name": "Jordan",
+    "last_name": "Lopez",
+    "email": "jordan.lopez48@example.com",
+    "signup_date": "2021-09-28T09:54:57",
+    "country": "United Kingdom",
+    "loyalty_tier": "silver",
+    "is_active": true
+  },
+  {
+    "user_id": 49,
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "email": "morgan.garcia49@example.com",
+    "signup_date": "2025-09-01T17:47:12",
+    "country": "United Kingdom",
+    "loyalty_tier": "bronze",
+    "is_active": false
+  },
+  {
+    "user_id": 50,
+    "first_name": "Riley",
+    "last_name": "Garcia",
+    "email": "riley.garcia50@example.com",
+    "signup_date": "2020-06-29T00:07:44",
+    "country": "United Kingdom",
+    "loyalty_tier": "silver",
+    "is_active": true
+  }
+]

@@ -1,0 +1,81 @@
+review_id,user_id,product_id,rating,comment
+1,16,32,1,Impressed with the durability
+2,14,36,4,Exceeded expectations
+3,6,19,4,Not worth the price
+4,16,1,3,Not worth the price
+5,50,38,2,Solid purchase overall
+6,26,15,4,Solid purchase overall
+7,2,34,4,Fantastic quality and fast shipping
+8,16,32,5,"Product was okay, could be better"
+9,26,39,2,Fantastic quality and fast shipping
+10,5,5,4,Not worth the price
+11,27,1,2,Not worth the price
+12,44,25,4,Not worth the price
+13,25,34,5,Exceeded expectations
+14,17,24,5,Impressed with the durability
+15,19,18,1,Impressed with the durability
+16,31,40,2,"Product was okay, could be better"
+17,30,40,2,Not worth the price
+18,41,20,4,Fantastic quality and fast shipping
+19,13,40,2,Fantastic quality and fast shipping
+20,20,30,4,Exceeded expectations
+21,9,35,5,Fantastic quality and fast shipping
+22,29,33,4,Not worth the price
+23,48,37,1,Impressed with the durability
+24,14,4,5,Not worth the price
+25,22,27,2,Not worth the price
+26,31,28,1,"Product was okay, could be better"
+27,50,32,2,"Product was okay, could be better"
+28,1,29,1,Not worth the price
+29,14,29,4,Impressed with the durability
+30,8,20,5,Fantastic quality and fast shipping
+31,37,28,4,Impressed with the durability
+32,27,37,1,Exceeded expectations
+33,37,15,1,Not worth the price
+34,18,10,5,Solid purchase overall
+35,28,10,3,Not worth the price
+36,7,25,1,Exceeded expectations
+37,29,35,2,Not worth the price
+38,13,22,3,Impressed with the durability
+39,14,4,2,"Product was okay, could be better"
+40,32,24,4,Impressed with the durability
+41,17,16,4,Exceeded expectations
+42,17,17,3,Impressed with the durability
+43,18,26,3,"Product was okay, could be better"
+44,12,19,1,"Product was okay, could be better"
+45,38,20,4,Solid purchase overall
+46,46,6,3,Fantastic quality and fast shipping
+47,8,31,1,Impressed with the durability
+48,8,22,5,Impressed with the durability
+49,38,32,4,Fantastic quality and fast shipping
+50,27,26,1,Not worth the price
+51,7,7,4,Fantastic quality and fast shipping
+52,38,16,2,"Product was okay, could be better"
+53,11,17,1,Exceeded expectations
+54,10,10,3,"Product was okay, could be better"
+55,30,33,5,Impressed with the durability
+56,5,38,5,Solid purchase overall
+57,26,24,1,Fantastic quality and fast shipping
+58,16,3,2,Solid purchase overall
+59,10,18,4,Fantastic quality and fast shipping
+60,34,13,5,Impressed with the durability
+61,33,24,2,Fantastic quality and fast shipping
+62,14,31,5,Impressed with the durability
+63,31,20,4,Not worth the price
+64,27,40,1,Impressed with the durability
+65,11,15,3,Solid purchase overall
+66,14,19,3,Exceeded expectations
+67,28,28,1,Impressed with the durability
+68,22,18,2,"Product was okay, could be better"
+69,37,35,2,"Product was okay, could be better"
+70,5,1,5,"Product was okay, could be better"
+71,39,39,5,Solid purchase overall
+72,43,29,5,"Product was okay, could be better"
+73,44,5,3,Impressed with the durability
+74,27,9,3,Solid purchase overall
+75,6,27,4,Not worth the price
+76,9,5,2,Impressed with the durability
+77,5,21,2,Solid purchase overall
+78,37,2,4,"Product was okay, could be better"
+79,45,38,3,Exceeded expectations
+80,39,20,2,Exceeded expectations

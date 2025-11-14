@@ -1,0 +1,51 @@
+user_id,first_name,last_name,email,signup_date,country
+1,Kai,Johnson,kai.johnson1@example.com,2023-01-23T20:54:00,Australia
+2,Cameron,Kim,cameron.kim2@example.com,2022-02-27T11:10:30,United States
+3,Harper,Reyes,harper.reyes3@example.com,2019-07-24T09:20:03,Canada
+4,Harper,Martinez,harper.martinez4@example.com,2019-05-15T16:30:53,United States
+5,Brooke,Patel,brooke.patel5@example.com,2019-11-05T15:56:36,Germany
+6,Harper,Smith,harper.smith6@example.com,2019-03-28T14:06:14,France
+7,Kai,Kim,kai.kim7@example.com,2025-08-16T21:21:43,United States
+8,Dakota,Patel,dakota.patel8@example.com,2025-01-09T09:26:50,United States
+9,Dakota,Martinez,dakota.martinez9@example.com,2022-01-06T07:15:18,Germany
+10,Kai,Smith,kai.smith10@example.com,2019-12-11T04:39:24,France
+11,Kai,Patel,kai.patel11@example.com,2020-01-14T23:10:49,Canada
+12,Dakota,Reyes,dakota.reyes12@example.com,2019-12-27T14:26:05,United States
+13,Cameron,Kim,cameron.kim13@example.com,2019-09-27T01:00:07,United Kingdom
+14,Logan,Lopez,logan.lopez14@example.com,2022-10-07T17:07:53,United Kingdom
+15,Logan,Lee,logan.lee15@example.com,2021-10-03T23:36:15,Australia
+16,Kai,Lopez,kai.lopez16@example.com,2025-10-18T17:26:47,France
+17,Jordan,Martinez,jordan.martinez17@example.com,2019-08-13T21:10:42,Australia
+18,Logan,Martinez,logan.martinez18@example.com,2023-12-30T22:17:25,Australia
+19,Avery,Brown,avery.brown19@example.com,2021-01-30T04:00:59,France
+20,Finley,Patel,finley.patel20@example.com,2023-07-09T08:51:32,France
+21,Logan,Garcia,logan.garcia21@example.com,2021-05-19T18:01:35,Canada
+22,Finley,Garcia,finley.garcia22@example.com,2019-08-23T13:59:19,United Kingdom
+23,Kai,Lee,kai.lee23@example.com,2021-05-06T12:23:38,Australia
+24,Kai,Garcia,kai.garcia24@example.com,2024-06-06T20:45:42,France
+25,Cameron,Smith,cameron.smith25@example.com,2025-03-17T23:33:44,United Kingdom
+26,Logan,Kim,logan.kim26@example.com,2023-08-02T22:25:34,France
+27,Kai,Reyes,kai.reyes27@example.com,2023-04-10T15:02:42,Canada
+28,Harper,Brown,harper.brown28@example.com,2021-02-04T09:09:02,France
+29,Elliot,Reyes,elliot.reyes29@example.com,2023-04-19T17:18:30,United States
+30,Logan,Martinez,logan.martinez30@example.com,2019-04-13T23:46:00,Australia
+31,Dakota,Patel,dakota.patel31@example.com,2020-10-25T01:01:52,Canada
+32,Cameron,Lopez,cameron.lopez32@example.com,2025-07-03T16:11:54,France
+33,Cameron,Garcia,cameron.garcia33@example.com,2019-02-05T08:30:42,France
+34,Brooke,Reyes,brooke.reyes34@example.com,2020-08-30T02:05:34,Germany
+35,Cameron,Lee,cameron.lee35@example.com,2021-01-11T08:43:31,Australia
+36,Finley,Garcia,finley.garcia36@example.com,2020-02-29T01:00:42,Australia
+37,Finley,Brown,finley.brown37@example.com,2022-05-11T07:43:37,Canada
+38,Dakota,Reyes,dakota.reyes38@example.com,2025-09-27T00:50:32,Germany
+39,Cameron,Johnson,cameron.johnson39@example.com,2020-04-21T01:46:44,France
+40,Dakota,Martinez,dakota.martinez40@example.com,2025-10-20T03:29:14,United Kingdom
+41,Logan,Kim,logan.kim41@example.com,2019-01-31T22:26:22,Canada
+42,Finley,Kim,finley.kim42@example.com,2022-02-21T14:40:15,United Kingdom
+43,Kai,Lopez,kai.lopez43@example.com,2021-03-18T09:10:29,United Kingdom
+44,Brooke,Lee,brooke.lee44@example.com,2025-03-27T15:38:17,United Kingdom
+45,Kai,Lopez,kai.lopez45@example.com,2022-08-19T05:55:45,France
+46,Logan,Reyes,logan.reyes46@example.com,2021-10-25T13:43:41,Germany
+47,Finley,Johnson,finley.johnson47@example.com,2021-02-12T04:34:13,Australia
+48,Logan,Lee,logan.lee48@example.com,2019-12-19T21:33:00,United Kingdom
+49,Finley,Patel,finley.patel49@example.com,2020-04-03T16:54:38,Australia
+50,Jordan,Lee,jordan.lee50@example.com,2023-05-16T16:25:48,Australia

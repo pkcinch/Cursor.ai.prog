@@ -1,0 +1,352 @@
+[
+  {
+    "user_id": 1,
+    "name": "Kai Johnson",
+    "email": "kai.johnson1@example.com",
+    "location": "Paris, France",
+    "signup_date": "2023-01-23T20:54:00"
+  },
+  {
+    "user_id": 2,
+    "name": "Cameron Silva",
+    "email": "cameron.silva2@example.com",
+    "location": "Seattle, USA",
+    "signup_date": "2022-02-27T11:10:30"
+  },
+  {
+    "user_id": 3,
+    "name": "Harper Romero",
+    "email": "harper.romero3@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2019-07-24T09:20:03"
+  },
+  {
+    "user_id": 4,
+    "name": "Harper Matsumoto",
+    "email": "harper.matsumoto4@example.com",
+    "location": "Seattle, USA",
+    "signup_date": "2019-05-15T16:30:53"
+  },
+  {
+    "user_id": 5,
+    "name": "Brooke Hughes",
+    "email": "brooke.hughes5@example.com",
+    "location": "Sydney, Australia",
+    "signup_date": "2019-11-05T15:56:36"
+  },
+  {
+    "user_id": 6,
+    "name": "Harper Smith",
+    "email": "harper.smith6@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2019-03-28T14:06:14"
+  },
+  {
+    "user_id": 7,
+    "name": "Kai Silva",
+    "email": "kai.silva7@example.com",
+    "location": "Seattle, USA",
+    "signup_date": "2025-08-16T21:21:43"
+  },
+  {
+    "user_id": 8,
+    "name": "Dakota Hughes",
+    "email": "dakota.hughes8@example.com",
+    "location": "Seattle, USA",
+    "signup_date": "2025-01-09T09:26:50"
+  },
+  {
+    "user_id": 9,
+    "name": "Dakota Matsumoto",
+    "email": "dakota.matsumoto9@example.com",
+    "location": "Sydney, Australia",
+    "signup_date": "2022-01-06T07:15:18"
+  },
+  {
+    "user_id": 10,
+    "name": "Kai Smith",
+    "email": "kai.smith10@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2019-12-11T04:39:24"
+  },
+  {
+    "user_id": 11,
+    "name": "Kai Hughes",
+    "email": "kai.hughes11@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2020-01-14T23:10:49"
+  },
+  {
+    "user_id": 12,
+    "name": "Dakota Romero",
+    "email": "dakota.romero12@example.com",
+    "location": "Seattle, USA",
+    "signup_date": "2019-12-27T14:26:05"
+  },
+  {
+    "user_id": 13,
+    "name": "Cameron Silva",
+    "email": "cameron.silva13@example.com",
+    "location": "London, UK",
+    "signup_date": "2019-09-27T01:00:07"
+  },
+  {
+    "user_id": 14,
+    "name": "Logan Nakamura",
+    "email": "logan.nakamura14@example.com",
+    "location": "London, UK",
+    "signup_date": "2022-10-07T17:07:53"
+  },
+  {
+    "user_id": 15,
+    "name": "Logan Reyes",
+    "email": "logan.reyes15@example.com",
+    "location": "Paris, France",
+    "signup_date": "2021-10-03T23:36:15"
+  },
+  {
+    "user_id": 16,
+    "name": "Kai Nakamura",
+    "email": "kai.nakamura16@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2025-10-18T17:26:47"
+  },
+  {
+    "user_id": 17,
+    "name": "Jordan Matsumoto",
+    "email": "jordan.matsumoto17@example.com",
+    "location": "Paris, France",
+    "signup_date": "2019-08-13T21:10:42"
+  },
+  {
+    "user_id": 18,
+    "name": "Logan Matsumoto",
+    "email": "logan.matsumoto18@example.com",
+    "location": "Paris, France",
+    "signup_date": "2023-12-30T22:17:25"
+  },
+  {
+    "user_id": 19,
+    "name": "Avery Garcia",
+    "email": "avery.garcia19@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2021-01-30T04:00:59"
+  },
+  {
+    "user_id": 20,
+    "name": "Finley Hughes",
+    "email": "finley.hughes20@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2023-07-09T08:51:32"
+  },
+  {
+    "user_id": 21,
+    "name": "Logan Patel",
+    "email": "logan.patel21@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2021-05-19T18:01:35"
+  },
+  {
+    "user_id": 22,
+    "name": "Finley Patel",
+    "email": "finley.patel22@example.com",
+    "location": "London, UK",
+    "signup_date": "2019-08-23T13:59:19"
+  },
+  {
+    "user_id": 23,
+    "name": "Kai Reyes",
+    "email": "kai.reyes23@example.com",
+    "location": "Paris, France",
+    "signup_date": "2021-05-06T12:23:38"
+  },
+  {
+    "user_id": 24,
+    "name": "Kai Patel",
+    "email": "kai.patel24@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2024-06-06T20:45:42"
+  },
+  {
+    "user_id": 25,
+    "name": "Cameron Smith",
+    "email": "cameron.smith25@example.com",
+    "location": "London, UK",
+    "signup_date": "2025-03-17T23:33:44"
+  },
+  {
+    "user_id": 26,
+    "name": "Logan Silva",
+    "email": "logan.silva26@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2023-08-02T22:25:34"
+  },
+  {
+    "user_id": 27,
+    "name": "Kai Romero",
+    "email": "kai.romero27@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2023-04-10T15:02:42"
+  },
+  {
+    "user_id": 28,
+    "name": "Harper Garcia",
+    "email": "harper.garcia28@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2021-02-04T09:09:02"
+  },
+  {
+    "user_id": 29,
+    "name": "Elliot Romero",
+    "email": "elliot.romero29@example.com",
+    "location": "Seattle, USA",
+    "signup_date": "2023-04-19T17:18:30"
+  },
+  {
+    "user_id": 30,
+    "name": "Logan Matsumoto",
+    "email": "logan.matsumoto30@example.com",
+    "location": "Paris, France",
+    "signup_date": "2019-04-13T23:46:00"
+  },
+  {
+    "user_id": 31,
+    "name": "Dakota Hughes",
+    "email": "dakota.hughes31@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2020-10-25T01:01:52"
+  },
+  {
+    "user_id": 32,
+    "name": "Cameron Nakamura",
+    "email": "cameron.nakamura32@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2025-07-03T16:11:54"
+  },
+  {
+    "user_id": 33,
+    "name": "Cameron Patel",
+    "email": "cameron.patel33@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2019-02-05T08:30:42"
+  },
+  {
+    "user_id": 34,
+    "name": "Brooke Romero",
+    "email": "brooke.romero34@example.com",
+    "location": "Sydney, Australia",
+    "signup_date": "2020-08-30T02:05:34"
+  },
+  {
+    "user_id": 35,
+    "name": "Cameron Reyes",
+    "email": "cameron.reyes35@example.com",
+    "location": "Paris, France",
+    "signup_date": "2021-01-11T08:43:31"
+  },
+  {
+    "user_id": 36,
+    "name": "Finley Patel",
+    "email": "finley.patel36@example.com",
+    "location": "Paris, France",
+    "signup_date": "2020-02-29T01:00:42"
+  },
+  {
+    "user_id": 37,
+    "name": "Finley Garcia",
+    "email": "finley.garcia37@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2022-05-11T07:43:37"
+  },
+  {
+    "user_id": 38,
+    "name": "Dakota Romero",
+    "email": "dakota.romero38@example.com",
+    "location": "Sydney, Australia",
+    "signup_date": "2025-09-27T00:50:32"
+  },
+  {
+    "user_id": 39,
+    "name": "Cameron Johnson",
+    "email": "cameron.johnson39@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2020-04-21T01:46:44"
+  },
+  {
+    "user_id": 40,
+    "name": "Dakota Matsumoto",
+    "email": "dakota.matsumoto40@example.com",
+    "location": "London, UK",
+    "signup_date": "2025-10-20T03:29:14"
+  },
+  {
+    "user_id": 41,
+    "name": "Logan Silva",
+    "email": "logan.silva41@example.com",
+    "location": "Vancouver, Canada",
+    "signup_date": "2019-01-31T22:26:22"
+  },
+  {
+    "user_id": 42,
+    "name": "Finley Silva",
+    "email": "finley.silva42@example.com",
+    "location": "London, UK",
+    "signup_date": "2022-02-21T14:40:15"
+  },
+  {
+    "user_id": 43,
+    "name": "Kai Nakamura",
+    "email": "kai.nakamura43@example.com",
+    "location": "London, UK",
+    "signup_date": "2021-03-18T09:10:29"
+  },
+  {
+    "user_id": 44,
+    "name": "Brooke Reyes",
+    "email": "brooke.reyes44@example.com",
+    "location": "London, UK",
+    "signup_date": "2025-03-27T15:38:17"
+  },
+  {
+    "user_id": 45,
+    "name": "Kai Nakamura",
+    "email": "kai.nakamura45@example.com",
+    "location": "Berlin, Germany",
+    "signup_date": "2022-08-19T05:55:45"
+  },
+  {
+    "user_id": 46,
+    "name": "Logan Romero",
+    "email": "logan.romero46@example.com",
+    "location": "Sydney, Australia",
+    "signup_date": "2021-10-25T13:43:41"
+  },
+  {
+    "user_id": 47,
+    "name": "Finley Johnson",
+    "email": "finley.johnson47@example.com",
+    "location": "Paris, France",
+    "signup_date": "2021-02-12T04:34:13"
+  },
+  {
+    "user_id": 48,
+    "name": "Logan Reyes",
+    "email": "logan.reyes48@example.com",
+    "location": "London, UK",
+    "signup_date": "2019-12-19T21:33:00"
+  },
+  {
+    "user_id": 49,
+    "name": "Finley Hughes",
+    "email": "finley.hughes49@example.com",
+    "location": "Paris, France",
+    "signup_date": "2020-04-03T16:54:38"
+  },
+  {
+    "user_id": 50,
+    "name": "Jordan Reyes",
+    "email": "jordan.reyes50@example.com",
+    "location": "Paris, France",
+    "signup_date": "2023-05-16T16:25:48"
+  }
+]

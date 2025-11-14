@@ -1,0 +1,282 @@
+[
+  {
+    "product_id": 1,
+    "name": "Wireless Speaker",
+    "category": "Toys",
+    "price": 118.2,
+    "stock": 189
+  },
+  {
+    "product_id": 2,
+    "name": "Wireless Backpack",
+    "category": "Beauty",
+    "price": 497.33,
+    "stock": 485
+  },
+  {
+    "product_id": 3,
+    "name": "Wireless Backpack",
+    "category": "Beauty",
+    "price": 415.2,
+    "stock": 314
+  },
+  {
+    "product_id": 4,
+    "name": "Pro Lamp",
+    "category": "Outdoors",
+    "price": 410.26,
+    "stock": 320
+  },
+  {
+    "product_id": 5,
+    "name": "Eco Drone",
+    "category": "Outdoors",
+    "price": 42.07,
+    "stock": 214
+  },
+  {
+    "product_id": 6,
+    "name": "Ultra Cookbook",
+    "category": "Beauty",
+    "price": 431.85,
+    "stock": 155
+  },
+  {
+    "product_id": 7,
+    "name": "Pro Drone",
+    "category": "Beauty",
+    "price": 197.57,
+    "stock": 471
+  },
+  {
+    "product_id": 8,
+    "name": "Compact Drone",
+    "category": "Outdoors",
+    "price": 542.3,
+    "stock": 346
+  },
+  {
+    "product_id": 9,
+    "name": "Pro Speaker",
+    "category": "Electronics",
+    "price": 454.82,
+    "stock": 389
+  },
+  {
+    "product_id": 10,
+    "name": "Ultra Cookbook",
+    "category": "Toys",
+    "price": 336.36,
+    "stock": 366
+  },
+  {
+    "product_id": 11,
+    "name": "Smart Speaker",
+    "category": "Toys",
+    "price": 499.01,
+    "stock": 432
+  },
+  {
+    "product_id": 12,
+    "name": "Compact Tent",
+    "category": "Books",
+    "price": 256.43,
+    "stock": 492
+  },
+  {
+    "product_id": 13,
+    "name": "Pro Speaker",
+    "category": "Electronics",
+    "price": 488.57,
+    "stock": 477
+  },
+  {
+    "product_id": 14,
+    "name": "Compact Cookbook",
+    "category": "Beauty",
+    "price": 330.74,
+    "stock": 468
+  },
+  {
+    "product_id": 15,
+    "name": "Pro Speaker",
+    "category": "Electronics",
+    "price": 208.61,
+    "stock": 197
+  },
+  {
+    "product_id": 16,
+    "name": "Wireless Backpack",
+    "category": "Beauty",
+    "price": 507.15,
+    "stock": 288
+  },
+  {
+    "product_id": 17,
+    "name": "Compact Tent",
+    "category": "Toys",
+    "price": 76.41,
+    "stock": 141
+  },
+  {
+    "product_id": 18,
+    "name": "Wireless Drone",
+    "category": "Outdoors",
+    "price": 298.19,
+    "stock": 378
+  },
+  {
+    "product_id": 19,
+    "name": "Pro Tent",
+    "category": "Beauty",
+    "price": 393.19,
+    "stock": 33
+  },
+  {
+    "product_id": 20,
+    "name": "Smart Speaker",
+    "category": "Electronics",
+    "price": 581.1,
+    "stock": 165
+  },
+  {
+    "product_id": 21,
+    "name": "Smart Cookbook",
+    "category": "Outdoors",
+    "price": 32.03,
+    "stock": 447
+  },
+  {
+    "product_id": 22,
+    "name": "Pro Serum",
+    "category": "Toys",
+    "price": 205.24,
+    "stock": 191
+  },
+  {
+    "product_id": 23,
+    "name": "Eco Backpack",
+    "category": "Toys",
+    "price": 90.6,
+    "stock": 323
+  },
+  {
+    "product_id": 24,
+    "name": "Pro Speaker",
+    "category": "Home",
+    "price": 398.89,
+    "stock": 463
+  },
+  {
+    "product_id": 25,
+    "name": "Compact Lamp",
+    "category": "Books",
+    "price": 128.83,
+    "stock": 323
+  },
+  {
+    "product_id": 26,
+    "name": "Compact Drone",
+    "category": "Electronics",
+    "price": 548.22,
+    "stock": 85
+  },
+  {
+    "product_id": 27,
+    "name": "Smart Tent",
+    "category": "Electronics",
+    "price": 495.51,
+    "stock": 132
+  },
+  {
+    "product_id": 28,
+    "name": "Compact Backpack",
+    "category": "Electronics",
+    "price": 322.92,
+    "stock": 78
+  },
+  {
+    "product_id": 29,
+    "name": "Smart Drone",
+    "category": "Books",
+    "price": 425.53,
+    "stock": 116
+  },
+  {
+    "product_id": 30,
+    "name": "Ultra Backpack",
+    "category": "Electronics",
+    "price": 82.49,
+    "stock": 456
+  },
+  {
+    "product_id": 31,
+    "name": "Pro Cookbook",
+    "category": "Books",
+    "price": 13.58,
+    "stock": 467
+  },
+  {
+    "product_id": 32,
+    "name": "Eco Speaker",
+    "category": "Outdoors",
+    "price": 130.5,
+    "stock": 462
+  },
+  {
+    "product_id": 33,
+    "name": "Pro Tent",
+    "category": "Home",
+    "price": 494.98,
+    "stock": 333
+  },
+  {
+    "product_id": 34,
+    "name": "Eco Speaker",
+    "category": "Electronics",
+    "price": 553.7,
+    "stock": 363
+  },
+  {
+    "product_id": 35,
+    "name": "Eco Lamp",
+    "category": "Electronics",
+    "price": 100.74,
+    "stock": 399
+  },
+  {
+    "product_id": 36,
+    "name": "Ultra Lamp",
+    "category": "Beauty",
+    "price": 66.6,
+    "stock": 36
+  },
+  {
+    "product_id": 37,
+    "name": "Smart Serum",
+    "category": "Home",
+    "price": 100.92,
+    "stock": 67
+  },
+  {
+    "product_id": 38,
+    "name": "Pro Lamp",
+    "category": "Electronics",
+    "price": 384.81,
+    "stock": 74
+  },
+  {
+    "product_id": 39,
+    "name": "Ultra Drone",
+    "category": "Outdoors",
+    "price": 254.5,
+    "stock": 136
+  },
+  {
+    "product_id": 40,
+    "name": "Pro Backpack",
+    "category": "Home",
+    "price": 337.3,
+    "stock": 326
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "order_id": 1,
+    "user_id": 27,
+    "order_date": "2024-01-08T19:53:02",
+    "status": "cancelled",
+    "shipping_address": "3713 Cedar St, Austin, CO 67125",
+    "payment_method": "paypal",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 2,
+    "user_id": 2,
+    "order_date": "2023-03-08T12:14:17",
+    "status": "delivered",
+    "shipping_address": "2804 Cedar St, Austin, IL 80008",
+    "payment_method": "visa",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 3,
+    "user_id": 26,
+    "order_date": "2024-04-27T20:32:55",
+    "status": "pending",
+    "shipping_address": "1475 Willow St, Boston, TX 70515",
+    "payment_method": "mastercard",
+    "total_amount": 998.49
+  },
+  {
+    "order_id": 4,
+    "user_id": 4,
+    "order_date": "2022-06-17T13:48:09",
+    "status": "shipped",
+    "shipping_address": "3567 Cedar St, Denver, CO 59692",
+    "payment_method": "amex",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 5,
+    "user_id": 49,
+    "order_date": "2025-08-31T15:20:55",
+    "status": "shipped",
+    "shipping_address": "1441 Cedar St, Seattle, OR 80702",
+    "payment_method": "visa",
+    "total_amount": 1438.2
+  },
+  {
+    "order_id": 6,
+    "user_id": 23,
+    "order_date": "2022-04-05T23:40:15",
+    "status": "pending",
+    "shipping_address": "759 Oak St, Austin, TX 12671",
+    "payment_method": "mastercard",
+    "total_amount": 43.28
+  },
+  {
+    "order_id": 7,
+    "user_id": 16,
+    "order_date": "2021-09-16T17:14:30",
+    "status": "pending",
+    "shipping_address": "9340 Maple St, Boston, OR 43586",
+    "payment_method": "amex",
+    "total_amount": 1413.09
+  },
+  {
+    "order_id": 8,
+    "user_id": 11,
+    "order_date": "2024-05-25T22:06:33",
+    "status": "pending",
+    "shipping_address": "2783 Pine St, Seattle, IL 13365",
+    "payment_method": "amex",
+    "total_amount": 998.49
+  },
+  {
+    "order_id": 9,
+    "user_id": 37,
+    "order_date": "2024-10-19T13:39:52",
+    "status": "delivered",
+    "shipping_address": "3349 Oak St, Chicago, OR 92213",
+    "payment_method": "mastercard",
+    "total_amount": 1650.34
+  },
+  {
+    "order_id": 10,
+    "user_id": 7,
+    "order_date": "2024-11-28T10:58:49",
+    "status": "cancelled",
+    "shipping_address": "2083 Elm St, Seattle, CO 79827",
+    "payment_method": "paypal",
+    "total_amount": 2247.26
+  },
+  {
+    "order_id": 11,
+    "user_id": 43,
+    "order_date": "2023-01-29T02:30:38",
+    "status": "cancelled",
+    "shipping_address": "5690 Oak St, Boston, MA 23833",
+    "payment_method": "paypal",
+    "total_amount": 1026.84
+  },
+  {
+    "order_id": 12,
+    "user_id": 24,
+    "order_date": "2024-07-25T16:44:18",
+    "status": "processing",
+    "shipping_address": "7235 Maple St, Portland, IL 95256",
+    "payment_method": "amex",
+    "total_amount": 955.67
+  },
+  {
+    "order_id": 13,
+    "user_id": 40,
+    "order_date": "2025-07-14T19:35:39",
+    "status": "delivered",
+    "shipping_address": "7716 Cedar St, Portland, IL 45179",
+    "payment_method": "amex",
+    "total_amount": 441.28
+  },
+  {
+    "order_id": 14,
+    "user_id": 16,
+    "order_date": "2025-08-29T03:09:19",
+    "status": "shipped",
+    "shipping_address": "7485 Maple St, Boston, IL 89997",
+    "payment_method": "paypal",
+    "total_amount": 2252.95
+  },
+  {
+    "order_id": 15,
+    "user_id": 22,
+    "order_date": "2021-02-28T17:59:49",
+    "status": "shipped",
+    "shipping_address": "3079 Cedar St, Austin, CO 43862",
+    "payment_method": "amex",
+    "total_amount": 433.36
+  },
+  {
+    "order_id": 16,
+    "user_id": 18,
+    "order_date": "2024-05-05T10:03:31",
+    "status": "cancelled",
+    "shipping_address": "266 Elm St, Austin, WA 41635",
+    "payment_method": "paypal",
+    "total_amount": 2449.14
+  },
+  {
+    "order_id": 17,
+    "user_id": 32,
+    "order_date": "2024-02-12T08:44:59",
+    "status": "delivered",
+    "shipping_address": "8141 Cedar St, Seattle, WA 48566",
+    "payment_method": "mastercard",
+    "total_amount": 1275.42
+  },
+  {
+    "order_id": 18,
+    "user_id": 26,
+    "order_date": "2024-11-17T08:51:30",
+    "status": "shipped",
+    "shipping_address": "9628 Pine St, Boston, IL 79588",
+    "payment_method": "amex",
+    "total_amount": 1772.52
+  },
+  {
+    "order_id": 19,
+    "user_id": 28,
+    "order_date": "2025-03-08T20:02:20",
+    "status": "shipped",
+    "shipping_address": "5864 Willow St, Boston, CO 50189",
+    "payment_method": "amex",
+    "total_amount": 1672.44
+  },
+  {
+    "order_id": 20,
+    "user_id": 15,
+    "order_date": "2021-09-05T07:00:42",
+    "status": "shipped",
+    "shipping_address": "2058 Willow St, Chicago, OR 34267",
+    "payment_method": "mastercard",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 21,
+    "user_id": 14,
+    "order_date": "2025-02-21T17:37:44",
+    "status": "shipped",
+    "shipping_address": "9759 Elm St, Chicago, CO 23176",
+    "payment_method": "mastercard",
+    "total_amount": 3981.85
+  },
+  {
+    "order_id": 22,
+    "user_id": 19,
+    "order_date": "2022-04-11T13:08:21",
+    "status": "processing",
+    "shipping_address": "5052 Oak St, Portland, IL 26591",
+    "payment_method": "amex",
+    "total_amount": 3373.86
+  },
+  {
+    "order_id": 23,
+    "user_id": 3,
+    "order_date": "2021-04-22T20:08:49",
+    "status": "shipped",
+    "shipping_address": "2168 Willow St, Boston, WA 11607",
+    "payment_method": "amex",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 24,
+    "user_id": 31,
+    "order_date": "2023-09-08T16:02:13",
+    "status": "shipped",
+    "shipping_address": "3120 Oak St, Denver, MA 24953",
+    "payment_method": "visa",
+    "total_amount": 1580.16
+  },
+  {
+    "order_id": 25,
+    "user_id": 26,
+    "order_date": "2023-10-05T02:41:50",
+    "status": "cancelled",
+    "shipping_address": "978 Maple St, Austin, IL 49824",
+    "payment_method": "visa",
+    "total_amount": 1734.08
+  },
+  {
+    "order_id": 26,
+    "user_id": 16,
+    "order_date": "2021-08-31T20:19:07",
+    "status": "delivered",
+    "shipping_address": "9866 Elm St, Austin, IL 59856",
+    "payment_method": "paypal",
+    "total_amount": 1572.16
+  },
+  {
+    "order_id": 27,
+    "user_id": 29,
+    "order_date": "2022-09-01T21:25:39",
+    "status": "delivered",
+    "shipping_address": "5103 Elm St, Chicago, WA 89905",
+    "payment_method": "visa",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 28,
+    "user_id": 49,
+    "order_date": "2022-03-02T22:46:27",
+    "status": "processing",
+    "shipping_address": "4435 Willow St, Seattle, TX 41439",
+    "payment_method": "mastercard",
+    "total_amount": 1208.01
+  },
+  {
+    "order_id": 29,
+    "user_id": 36,
+    "order_date": "2021-06-03T05:41:57",
+    "status": "pending",
+    "shipping_address": "6793 Cedar St, Portland, IL 71592",
+    "payment_method": "amex",
+    "total_amount": 378.54
+  },
+  {
+    "order_id": 30,
+    "user_id": 3,
+    "order_date": "2022-04-20T10:29:22",
+    "status": "shipped",
+    "shipping_address": "7538 Oak St, Portland, TX 44675",
+    "payment_method": "mastercard",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 31,
+    "user_id": 28,
+    "order_date": "2021-08-24T19:49:36",
+    "status": "processing",
+    "shipping_address": "2541 Pine St, Austin, WA 17816",
+    "payment_method": "mastercard",
+    "total_amount": 2931.49
+  },
+  {
+    "order_id": 32,
+    "user_id": 20,
+    "order_date": "2024-05-03T20:43:27",
+    "status": "shipped",
+    "shipping_address": "7295 Oak St, Boston, OR 49857",
+    "payment_method": "paypal",
+    "total_amount": 365.79
+  },
+  {
+    "order_id": 33,
+    "user_id": 18,
+    "order_date": "2023-10-22T19:39:36",
+    "status": "delivered",
+    "shipping_address": "7272 Oak St, Chicago, WA 66626",
+    "payment_method": "amex",
+    "total_amount": 2214.48
+  },
+  {
+    "order_id": 34,
+    "user_id": 39,
+    "order_date": "2022-05-28T00:56:30",
+    "status": "pending",
+    "shipping_address": "3850 Willow St, Chicago, IL 12719",
+    "payment_method": "amex",
+    "total_amount": 1331.32
+  },
+  {
+    "order_id": 35,
+    "user_id": 37,
+    "order_date": "2021-03-24T06:22:42",
+    "status": "delivered",
+    "shipping_address": "8602 Willow St, Boston, CO 33788",
+    "payment_method": "paypal",
+    "total_amount": 1316.94
+  },
+  {
+    "order_id": 36,
+    "user_id": 41,
+    "order_date": "2025-07-26T17:54:11",
+    "status": "pending",
+    "shipping_address": "7800 Pine St, Boston, CO 52081",
+    "payment_method": "visa",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 37,
+    "user_id": 11,
+    "order_date": "2022-11-07T14:59:15",
+    "status": "delivered",
+    "shipping_address": "4822 Willow St, Boston, IL 14809",
+    "payment_method": "paypal",
+    "total_amount": 1332.88
+  },
+  {
+    "order_id": 38,
+    "user_id": 6,
+    "order_date": "2022-10-07T09:11:22",
+    "status": "shipped",
+    "shipping_address": "1999 Cedar St, Chicago, WA 96200",
+    "payment_method": "paypal",
+    "total_amount": 439.74
+  },
+  {
+    "order_id": 39,
+    "user_id": 27,
+    "order_date": "2021-04-22T06:49:46",
+    "status": "cancelled",
+    "shipping_address": "6027 Elm St, Boston, OR 67939",
+    "payment_method": "visa",
+    "total_amount": 1007.76
+  },
+  {
+    "order_id": 40,
+    "user_id": 14,
+    "order_date": "2022-07-01T19:59:47",
+    "status": "processing",
+    "shipping_address": "4819 Cedar St, Portland, MA 25915",
+    "payment_method": "visa",
+    "total_amount": 3412.99
+  },
+  {
+    "order_id": 41,
+    "user_id": 41,
+    "order_date": "2024-05-31T08:42:45",
+    "status": "processing",
+    "shipping_address": "5191 Elm St, Seattle, IL 63476",
+    "payment_method": "visa",
+    "total_amount": 2742.69
+  },
+  {
+    "order_id": 42,
+    "user_id": 15,
+    "order_date": "2025-09-20T04:07:51",
+    "status": "delivered",
+    "shipping_address": "2024 Willow St, Austin, MA 48254",
+    "payment_method": "amex",
+    "total_amount": 1672.44
+  },
+  {
+    "order_id": 43,
+    "user_id": 27,
+    "order_date": "2025-09-06T17:34:02",
+    "status": "delivered",
+    "shipping_address": "4093 Cedar St, Chicago, TX 60277",
+    "payment_method": "mastercard",
+    "total_amount": 1752.26
+  },
+  {
+    "order_id": 44,
+    "user_id": 39,
+    "order_date": "2023-11-07T04:58:12",
+    "status": "pending",
+    "shipping_address": "4626 Cedar St, Denver, IL 45018",
+    "payment_method": "visa",
+    "total_amount": 836.22
+  },
+  {
+    "order_id": 45,
+    "user_id": 19,
+    "order_date": "2025-01-26T10:52:12",
+    "status": "cancelled",
+    "shipping_address": "9601 Willow St, Boston, TX 68529",
+    "payment_method": "paypal",
+    "total_amount": 864.04
+  },
+  {
+    "order_id": 46,
+    "user_id": 23,
+    "order_date": "2022-11-12T20:05:40",
+    "status": "cancelled",
+    "shipping_address": "6280 Cedar St, Denver, TX 41300",
+    "payment_method": "paypal",
+    "total_amount": 566.01
+  },
+  {
+    "order_id": 47,
+    "user_id": 15,
+    "order_date": "2025-10-20T14:57:21",
+    "status": "pending",
+    "shipping_address": "5313 Willow St, Boston, OR 59968",
+    "payment_method": "paypal",
+    "total_amount": 3763.45
+  },
+  {
+    "order_id": 48,
+    "user_id": 43,
+    "order_date": "2025-06-11T23:44:21",
+    "status": "processing",
+    "shipping_address": "8215 Oak St, Austin, IL 87356",
+    "payment_method": "amex",
+    "total_amount": 1456.21
+  },
+  {
+    "order_id": 49,
+    "user_id": 7,
+    "order_date": "2025-09-27T16:01:51",
+    "status": "pending",
+    "shipping_address": "8717 Cedar St, Seattle, OR 28894",
+    "payment_method": "paypal",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 50,
+    "user_id": 42,
+    "order_date": "2021-11-13T02:43:27",
+    "status": "delivered",
+    "shipping_address": "4442 Pine St, Chicago, OR 62098",
+    "payment_method": "visa",
+    "total_amount": 3074.98
+  },
+  {
+    "order_id": 51,
+    "user_id": 22,
+    "order_date": "2025-10-12T19:25:42",
+    "status": "delivered",
+    "shipping_address": "5288 Willow St, Portland, MA 80912",
+    "payment_method": "visa",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 52,
+    "user_id": 40,
+    "order_date": "2021-05-21T08:32:51",
+    "status": "shipped",
+    "shipping_address": "3827 Willow St, Seattle, MA 22903",
+    "payment_method": "visa",
+    "total_amount": 356.94
+  },
+  {
+    "order_id": 53,
+    "user_id": 29,
+    "order_date": "2021-12-07T10:54:11",
+    "status": "pending",
+    "shipping_address": "853 Pine St, Seattle, CO 56984",
+    "payment_method": "amex",
+    "total_amount": 665.66
+  },
+  {
+    "order_id": 54,
+    "user_id": 28,
+    "order_date": "2021-10-26T08:53:27",
+    "status": "cancelled",
+    "shipping_address": "6851 Elm St, Portland, TX 32280",
+    "payment_method": "mastercard",
+    "total_amount": 754.68
+  },
+  {
+    "order_id": 55,
+    "user_id": 6,
+    "order_date": "2024-06-02T13:55:40",
+    "status": "cancelled",
+    "shipping_address": "4045 Cedar St, Chicago, TX 40433",
+    "payment_method": "paypal",
+    "total_amount": 1119.57
+  },
+  {
+    "order_id": 56,
+    "user_id": 41,
+    "order_date": "2022-06-05T16:43:56",
+    "status": "shipped",
+    "shipping_address": "253 Cedar St, Denver, OR 81643",
+    "payment_method": "mastercard",
+    "total_amount": 2092.2
+  },
+  {
+    "order_id": 57,
+    "user_id": 5,
+    "order_date": "2023-06-24T12:34:53",
+    "status": "cancelled",
+    "shipping_address": "5001 Willow St, Boston, OR 42780",
+    "payment_method": "paypal",
+    "total_amount": 3187.36
+  },
+  {
+    "order_id": 58,
+    "user_id": 20,
+    "order_date": "2022-02-12T14:00:22",
+    "status": "delivered",
+    "shipping_address": "1847 Maple St, Boston, IL 57049",
+    "payment_method": "amex",
+    "total_amount": 4862.12
+  },
+  {
+    "order_id": 59,
+    "user_id": 45,
+    "order_date": "2022-08-28T00:47:55",
+    "status": "delivered",
+    "shipping_address": "4597 Oak St, Chicago, OR 16428",
+    "payment_method": "paypal",
+    "total_amount": 336.79
+  },
+  {
+    "order_id": 60,
+    "user_id": 19,
+    "order_date": "2025-05-08T08:22:42",
+    "status": "cancelled",
+    "shipping_address": "5872 Maple St, Portland, TX 91381",
+    "payment_method": "amex",
+    "total_amount": 2277.72
+  },
+  {
+    "order_id": 61,
+    "user_id": 44,
+    "order_date": "2025-03-29T00:00:00",
+    "status": "processing",
+    "shipping_address": "1691 Willow St, Portland, WA 50492",
+    "payment_method": "paypal",
+    "total_amount": 1795.14
+  },
+  {
+    "order_id": 62,
+    "user_id": 3,
+    "order_date": "2024-04-01T13:17:03",
+    "status": "processing",
+    "shipping_address": "1576 Pine St, Denver, OR 64460",
+    "payment_method": "mastercard",
+    "total_amount": 808.0
+  },
+  {
+    "order_id": 63,
+    "user_id": 13,
+    "order_date": "2021-09-28T19:38:21",
+    "status": "shipped",
+    "shipping_address": "8797 Elm St, Denver, TX 43681",
+    "payment_method": "paypal",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 64,
+    "user_id": 19,
+    "order_date": "2025-03-09T12:19:56",
+    "status": "pending",
+    "shipping_address": "7773 Oak St, Austin, TX 98647",
+    "payment_method": "paypal",
+    "total_amount": 4021.05
+  },
+  {
+    "order_id": 65,
+    "user_id": 36,
+    "order_date": "2023-01-20T03:17:16",
+    "status": "delivered",
+    "shipping_address": "328 Pine St, Chicago, WA 69609",
+    "payment_method": "amex",
+    "total_amount": 4090.14
+  },
+  {
+    "order_id": 66,
+    "user_id": 44,
+    "order_date": "2025-03-14T09:32:42",
+    "status": "cancelled",
+    "shipping_address": "6342 Willow St, Denver, WA 98452",
+    "payment_method": "mastercard",
+    "total_amount": 2455.85
+  },
+  {
+    "order_id": 67,
+    "user_id": 31,
+    "order_date": "2021-02-21T22:33:25",
+    "status": "cancelled",
+    "shipping_address": "5474 Elm St, Austin, OR 18285",
+    "payment_method": "paypal",
+    "total_amount": 890.15
+  },
+  {
+    "order_id": 68,
+    "user_id": 45,
+    "order_date": "2022-09-11T23:38:17",
+    "status": "delivered",
+    "shipping_address": "2011 Maple St, Seattle, WA 49893",
+    "payment_method": "paypal",
+    "total_amount": 4118.32
+  },
+  {
+    "order_id": 69,
+    "user_id": 8,
+    "order_date": "2021-07-19T08:32:55",
+    "status": "cancelled",
+    "shipping_address": "2322 Cedar St, Boston, CO 97881",
+    "payment_method": "paypal",
+    "total_amount": 32.46
+  },
+  {
+    "order_id": 70,
+    "user_id": 38,
+    "order_date": "2025-03-01T05:37:33",
+    "status": "delivered",
+    "shipping_address": "1722 Cedar St, Chicago, MA 46666",
+    "payment_method": "visa",
+    "total_amount": 2329.39
+  },
+  {
+    "order_id": 71,
+    "user_id": 45,
+    "order_date": "2023-01-29T07:54:37",
+    "status": "delivered",
+    "shipping_address": "7385 Maple St, Denver, WA 99873",
+    "payment_method": "amex",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 72,
+    "user_id": 35,
+    "order_date": "2024-08-13T13:03:32",
+    "status": "pending",
+    "shipping_address": "6623 Pine St, Austin, WA 69600",
+    "payment_method": "visa",
+    "total_amount": 422.16
+  },
+  {
+    "order_id": 73,
+    "user_id": 43,
+    "order_date": "2022-03-11T23:21:49",
+    "status": "cancelled",
+    "shipping_address": "449 Oak St, Denver, TX 26505",
+    "payment_method": "mastercard",
+    "total_amount": 295.42
+  },
+  {
+    "order_id": 74,
+    "user_id": 5,
+    "order_date": "2025-08-27T20:10:41",
+    "status": "processing",
+    "shipping_address": "9707 Maple St, Austin, CO 29340",
+    "payment_method": "visa",
+    "total_amount": 673.58
+  },
+  {
+    "order_id": 75,
+    "user_id": 18,
+    "order_date": "2025-10-25T05:16:04",
+    "status": "processing",
+    "shipping_address": "8950 Pine St, Austin, WA 96646",
+    "payment_method": "visa",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 76,
+    "user_id": 9,
+    "order_date": "2021-01-31T13:02:35",
+    "status": "processing",
+    "shipping_address": "9747 Pine St, Seattle, TX 44782",
+    "payment_method": "visa",
+    "total_amount": 566.01
+  },
+  {
+    "order_id": 77,
+    "user_id": 9,
+    "order_date": "2025-02-28T15:19:36",
+    "status": "cancelled",
+    "shipping_address": "1962 Willow St, Seattle, MA 68756",
+    "payment_method": "amex",
+    "total_amount": 428.6
+  },
+  {
+    "order_id": 78,
+    "user_id": 33,
+    "order_date": "2024-04-30T03:58:13",
+    "status": "delivered",
+    "shipping_address": "8354 Maple St, Chicago, WA 96363",
+    "payment_method": "amex",
+    "total_amount": 476.88
+  },
+  {
+    "order_id": 79,
+    "user_id": 30,
+    "order_date": "2024-08-10T01:08:02",
+    "status": "pending",
+    "shipping_address": "7947 Cedar St, Boston, OR 24150",
+    "payment_method": "paypal",
+    "total_amount": 1686.58
+  },
+  {
+    "order_id": 80,
+    "user_id": 46,
+    "order_date": "2023-06-28T02:40:32",
+    "status": "pending",
+    "shipping_address": "5377 Elm St, Austin, WA 26540",
+    "payment_method": "amex",
+    "total_amount": 431.15
+  },
+  {
+    "order_id": 81,
+    "user_id": 40,
+    "order_date": "2024-07-20T21:18:44",
+    "status": "cancelled",
+    "shipping_address": "5427 Cedar St, Chicago, IL 48652",
+    "payment_method": "paypal",
+    "total_amount": 3109.72
+  },
+  {
+    "order_id": 82,
+    "user_id": 33,
+    "order_date": "2024-05-24T15:39:47",
+    "status": "pending",
+    "shipping_address": "1974 Willow St, Portland, IL 38183",
+    "payment_method": "paypal",
+    "total_amount": 355.92
+  },
+  {
+    "order_id": 83,
+    "user_id": 29,
+    "order_date": "2022-04-13T15:03:59",
+    "status": "shipped",
+    "shipping_address": "7530 Cedar St, Boston, OR 22463",
+    "payment_method": "amex",
+    "total_amount": 2062.01
+  },
+  {
+    "order_id": 84,
+    "user_id": 28,
+    "order_date": "2022-10-03T09:16:48",
+    "status": "shipped",
+    "shipping_address": "2600 Willow St, Boston, WA 21957",
+    "payment_method": "visa",
+    "total_amount": 252.44
+  },
+  {
+    "order_id": 85,
+    "user_id": 6,
+    "order_date": "2023-06-04T03:30:56",
+    "status": "shipped",
+    "shipping_address": "2231 Elm St, Seattle, IL 83608",
+    "payment_method": "amex",
+    "total_amount": 950.74
+  },
+  {
+    "order_id": 86,
+    "user_id": 43,
+    "order_date": "2021-09-08T14:57:25",
+    "status": "shipped",
+    "shipping_address": "7029 Willow St, Seattle, CO 88696",
+    "payment_method": "amex",
+    "total_amount": 477.09
+  },
+  {
+    "order_id": 87,
+    "user_id": 23,
+    "order_date": "2021-08-01T21:02:28",
+    "status": "cancelled",
+    "shipping_address": "3585 Maple St, Portland, MA 39392",
+    "payment_method": "visa",
+    "total_amount": 753.71
+  },
+  {
+    "order_id": 88,
+    "user_id": 23,
+    "order_date": "2025-09-28T20:15:10",
+    "status": "shipped",
+    "shipping_address": "1982 Pine St, Chicago, TX 66244",
+    "payment_method": "visa",
+    "total_amount": 251.7
+  },
+  {
+    "order_id": 89,
+    "user_id": 39,
+    "order_date": "2024-09-09T09:44:14",
+    "status": "pending",
+    "shipping_address": "3055 Pine St, Portland, CO 54541",
+    "payment_method": "amex",
+    "total_amount": 951.02
+  },
+  {
+    "order_id": 90,
+    "user_id": 1,
+    "order_date": "2022-01-07T05:12:56",
+    "status": "cancelled",
+    "shipping_address": "6666 Oak St, Austin, OR 92991",
+    "payment_method": "visa",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 91,
+    "user_id": 6,
+    "order_date": "2025-03-09T19:18:51",
+    "status": "processing",
+    "shipping_address": "6263 Cedar St, Boston, CO 30631",
+    "payment_method": "amex",
+    "total_amount": 1606.59
+  },
+  {
+    "order_id": 92,
+    "user_id": 20,
+    "order_date": "2025-01-17T11:48:37",
+    "status": "cancelled",
+    "shipping_address": "9868 Oak St, Seattle, TX 30632",
+    "payment_method": "visa",
+    "total_amount": 1515.4
+  },
+  {
+    "order_id": 93,
+    "user_id": 44,
+    "order_date": "2021-06-17T09:54:25",
+    "status": "delivered",
+    "shipping_address": "7047 Cedar St, Chicago, MA 64287",
+    "payment_method": "amex",
+    "total_amount": 447.39
+  },
+  {
+    "order_id": 94,
+    "user_id": 14,
+    "order_date": "2025-03-27T18:39:14",
+    "status": "pending",
+    "shipping_address": "5755 Cedar St, Seattle, CO 98895",
+    "payment_method": "paypal",
+    "total_amount": 784.31
+  },
+  {
+    "order_id": 95,
+    "user_id": 34,
+    "order_date": "2024-09-28T11:13:45",
+    "status": "pending",
+    "shipping_address": "3712 Cedar St, Chicago, WA 11007",
+    "payment_method": "mastercard",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 96,
+    "user_id": 20,
+    "order_date": "2022-03-09T04:59:47",
+    "status": "shipped",
+    "shipping_address": "4842 Pine St, Seattle, WA 75193",
+    "payment_method": "paypal",
+    "total_amount": 0.0
+  },
+  {
+    "order_id": 97,
+    "user_id": 12,
+    "order_date": "2021-09-22T13:50:34",
+    "status": "cancelled",
+    "shipping_address": "3870 Elm St, Chicago, OR 56421",
+    "payment_method": "visa",
+    "total_amount": 1230.38
+  },
+  {
+    "order_id": 98,
+    "user_id": 26,
+    "order_date": "2025-10-31T01:32:24",
+    "status": "delivered",
+    "shipping_address": "407 Cedar St, Seattle, CO 85465",
+    "payment_method": "paypal",
+    "total_amount": 1721.83
+  },
+  {
+    "order_id": 99,
+    "user_id": 37,
+    "order_date": "2023-04-09T23:18:24",
+    "status": "delivered",
+    "shipping_address": "4843 Oak St, Boston, WA 52568",
+    "payment_method": "mastercard",
+    "total_amount": 3328.98
+  },
+  {
+    "order_id": 100,
+    "user_id": 40,
+    "order_date": "2023-08-01T13:10:28",
+    "status": "pending",
+    "shipping_address": "7255 Oak St, Austin, MA 87184",
+    "payment_method": "paypal",
+    "total_amount": 2472.53
+  }
+]
